@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/github.io/context-dark-mod/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/github.io/context-dark-mod/static/js/main.adc0f706.chunk.js",
-    "main.js.map": "/github.io/context-dark-mod/static/js/main.adc0f706.chunk.js.map",
-    "runtime-main.js": "/github.io/context-dark-mod/static/js/runtime-main.f9538bee.js",
-    "runtime-main.js.map": "/github.io/context-dark-mod/static/js/runtime-main.f9538bee.js.map",
-    "static/js/2.c67886a0.chunk.js": "/github.io/context-dark-mod/static/js/2.c67886a0.chunk.js",
-    "static/js/2.c67886a0.chunk.js.map": "/github.io/context-dark-mod/static/js/2.c67886a0.chunk.js.map",
-    "static/js/3.a093ce76.chunk.js": "/github.io/context-dark-mod/static/js/3.a093ce76.chunk.js",
-    "static/js/3.a093ce76.chunk.js.map": "/github.io/context-dark-mod/static/js/3.a093ce76.chunk.js.map",
-    "index.html": "/github.io/context-dark-mod/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/github.io/context-dark-mod/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.c67886a0.chunk.js.LICENSE.txt": "/github.io/context-dark-mod/static/js/2.c67886a0.chunk.js.LICENSE.txt"
+    "main.css": "/context-dark-mod/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/context-dark-mod/static/js/main.adc0f706.chunk.js",
+    "main.js.map": "/context-dark-mod/static/js/main.adc0f706.chunk.js.map",
+    "runtime-main.js": "/context-dark-mod/static/js/runtime-main.9b29ad59.js",
+    "runtime-main.js.map": "/context-dark-mod/static/js/runtime-main.9b29ad59.js.map",
+    "static/js/2.c67886a0.chunk.js": "/context-dark-mod/static/js/2.c67886a0.chunk.js",
+    "static/js/2.c67886a0.chunk.js.map": "/context-dark-mod/static/js/2.c67886a0.chunk.js.map",
+    "static/js/3.a093ce76.chunk.js": "/context-dark-mod/static/js/3.a093ce76.chunk.js",
+    "static/js/3.a093ce76.chunk.js.map": "/context-dark-mod/static/js/3.a093ce76.chunk.js.map",
+    "index.html": "/context-dark-mod/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/context-dark-mod/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c67886a0.chunk.js.LICENSE.txt": "/context-dark-mod/static/js/2.c67886a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9538bee.js",
+    "static/js/runtime-main.9b29ad59.js",
     "static/js/2.c67886a0.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.adc0f706.chunk.js"
